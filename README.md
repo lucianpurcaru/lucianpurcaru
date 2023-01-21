@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucian</h1>
 <h3 align="center">I'm currently learnning PHP Symfony @ Wild Code School in Orléans, France.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianpurcaru&label=Profile%20views&color=0e75b6&style=flat" alt="lucianpurcaru" /> </p>
-
 - 🔭 I’m currently working on [Ze-Sport](https://github.com/WildCodeSchool/202209-orleans-php-project-originsdigital)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucianpurcaru](https://github.com/lucianpurcaru)
