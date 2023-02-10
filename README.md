@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucian</h1>
-<h3 align="center">I'm a junior web developper based in Oléans, France.</h3>
+<h3 align="center">I'm a junior web developper based in Orléans, France.</h3>
 
 - 🔭 I’m currently an intern at [Colibree Intergénération](https://www.colibree.fr/)
 
